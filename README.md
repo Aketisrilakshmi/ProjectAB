@@ -3,7 +3,7 @@ Web based application developed for a Skincare & wellness Services website named
 
 ### This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft & Github.
 
-**Project Link** - https://purple-desert-016007600.3.azurestaticapps.net/
+**Project Link** - https://purple-desert-016007600.3.azurestaticapps.net
 **Project Demo Video Link** -  
 
 Azure Technologies used for the Project:
